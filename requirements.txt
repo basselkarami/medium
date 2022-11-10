@@ -2,3 +2,4 @@ mljar-mercury==1.1.6
 plotly==5.11.0
 pandas==1.2.4
 plotly_express==0.4.0
+matplotlib==3.4.1
